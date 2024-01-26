@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63785827713",
+    "project_id": "passing-data-82d19",
+    "storage_bucket": "passing-data-82d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63785827713:android:19ae1f84c8be740685bc80",
+        "android_client_info": {
+          "package_name": "com.example.passingdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtETPWh0UFjkhCJfFdqC_of6tATN9I6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
