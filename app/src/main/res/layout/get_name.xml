@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="#8BC34A"
+    android:background="#4CAF50"
     android:layout_height="match_parent"
     tools:context=".GetNameActivity">
 
@@ -13,7 +13,9 @@
         android:layout_height="wrap_content"
         android:ellipsize="marquee"
         android:text="@string/textview"
-        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="26sp"
         app:autoSizeTextType="uniform"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
