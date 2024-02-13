@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:minHeight="48dp"
         android:text="@string/EnterName"
+        android:textColor="#F44336"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
