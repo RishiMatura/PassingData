@@ -13,7 +13,7 @@
         android:minHeight="48dp"
         android:text="@string/EnterName"
         android:textColor="#F44336"
-        android:textSize="22sp"
+        android:textSize="23sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
