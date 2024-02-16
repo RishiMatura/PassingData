@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:ellipsize="marquee"
         android:text="@string/textview"
-        android:textColor="#EA3A3A"
+        android:textColor="#F83E3E"
         android:textStyle="bold"
         android:textSize="27sp"
         app:autoSizeTextType="uniform"
